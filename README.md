@@ -24,7 +24,7 @@ To use this project, please follow these steps:
 
 ## Usage
 
-The project includes sample images that you can use to test the application. These images are located in the ./sample-images folder. Please ensure that each image is in PNG format.
+The project includes sample images that you can use to test the application. These images are located in the `./sample-images` folder. Please ensure that each image is in PNG format.
 
 To run the JavaScript code in the application, you need to run a local web server. This is necessary because certain web browsers enforce security restrictions that prevent JavaScript code from accessing local files directly.
 
@@ -40,9 +40,9 @@ python3 -m http.server
 
 3. The server will start, and you can access the application by visiting http://localhost:8000 in your web browser.
 
-4. Click on the "Choose File" button to upload an image from the `./sample-images` folder or any other image that meets the requirements.
+4. Click on the `Choose File` button to upload an image from the `./sample-images` folder or any other image that meets the requirements.
 
-5. Click the "Predict" button to process the uploaded image and display the predicted probability of the image containing a number.
+5. Click the `Predict` button to process the uploaded image and display the predicted probability of the image containing a number.
 
 ## Contributing
 
