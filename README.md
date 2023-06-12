@@ -1,6 +1,6 @@
 # Image Classifier Proof of Concept using TensorFlow.js
 
-This is a proof of concept project that demonstrates an image classifier using TensorFlow.js. The application allows users to upload a 28x28-pixel image containing a number, and it predicts the probability of that image containing a number using the open source MNIST Dataset.
+This is a proof-of-concept project that showcases an image classifier implemented using TensorFlow.js. The application enables users to upload an image that contains handwritten numbers, and it accurately identifies the number while providing the corresponding probability of accuracy. The project utilizes the open source MNIST Dataset.
 
 ## Installation
 
