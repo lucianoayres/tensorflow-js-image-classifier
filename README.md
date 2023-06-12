@@ -24,7 +24,7 @@ To use this project, please follow these steps:
 
 ## Usage
 
-The project includes sample images that you can use to test the application. These images are located in the ./sample-images folder. Please ensure that each image is in PNG format and dimensions of 28x28 pixels.
+The project includes sample images that you can use to test the application. These images are located in the ./sample-images folder. Please ensure that each image is in PNG format.
 
 To run the JavaScript code in the application, you need to run a local web server. This is necessary because certain web browsers enforce security restrictions that prevent JavaScript code from accessing local files directly.
 
