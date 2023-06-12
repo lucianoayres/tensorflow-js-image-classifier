@@ -1,5 +1,3 @@
-Sure! Here's an example of a professional README.md file for your GitHub repository:
-
 # Image Classifier Proof of Concept using TensorFlow.js
 
 This is a proof of concept project that demonstrates an image classifier using TensorFlow.js. The application allows users to upload a 28x28-pixel image containing a number, and it predicts the probability of that image containing a number using the open source MNIST Dataset.
